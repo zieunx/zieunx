@@ -22,7 +22,12 @@ jobs:
           template: classic
           base: header
           config_timezone: Asia/Seoul
-          plugin_isocalendar: yes
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
+          plugin_languages: yes
+          plugin_languages_ignored: "" # List of comma separated languages to ignore
+          plugin_languages_skipped: "" # List of comma separated repositories to skip
+          plugin_activity : yes 
+          plugin_activity_limit : 5 
+          plugin_activity_days : 14  # 이벤트의 최대 연령, 무제한의 경우 0으로 설정
