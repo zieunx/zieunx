@@ -2,4 +2,4 @@
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzieunx)](https://hits.seeyoufarm.com)
   
- ![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
+ ![Metrics](https://github.com/zieunx/my-github-user/blob/master/metrics.svg)
