@@ -12,11 +12,17 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token restricted to current repository, which is used to push files in it
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: zieunx
+          template: classic
+          base: header
+          config_timezone: Asia/Seoul
+          plugin_isocalendar: yes
           plugin_habits: yes
           plugin_habits_from: 200
           plugin_habits_days: 14
