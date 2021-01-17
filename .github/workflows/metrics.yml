@@ -28,6 +28,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: "" # List of comma separated languages to ignore
           plugin_languages_skipped: "" # List of comma separated repositories to skip
-          plugin_activity : yes 
-          plugin_activity_limit : 5 
-          plugin_activity_days : 14  # 이벤트의 최대 연령, 무제한의 경우 0으로 설정
