@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="235" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
 
   <defs><style/></defs>
   <style>/* SVG global context */
@@ -774,15 +774,15 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="245.5939959490269" height="8" fill="#b07219"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="205.68484989167442" height="8" fill="#b07219"/>
         
-          <rect mask="url(#languages-bar)" x="245.5939959490269" y="0" width="108.83764469508436" height="8" fill="#f34b7d"/>
+          <rect mask="url(#languages-bar)" x="205.68484989167442" y="0" width="129.09648715567937" height="8" fill="#f34b7d"/>
         
-          <rect mask="url(#languages-bar)" x="354.43164064411127" y="0" width="49.76845524848903" height="8" fill="#3572A5"/>
+          <rect mask="url(#languages-bar)" x="334.78133704735376" y="0" width="59.03226555246054" height="8" fill="#3572A5"/>
         
-          <rect mask="url(#languages-bar)" x="404.2000958926003" y="0" width="30.985443242344086" height="8" fill="#f1e05a"/>
+          <rect mask="url(#languages-bar)" x="393.8136025998143" y="0" width="36.753017641597026" height="8" fill="#f1e05a"/>
         
-          <rect mask="url(#languages-bar)" x="435.18553913494435" y="0" width="24.81446086505563" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="430.5666202414114" y="0" width="29.43337975858867" height="8" fill="#e34c26"/>
         
       </svg>
       
@@ -836,13 +836,7 @@
         
           <ul class="habits">
             
-              <li>Use spaces for indents</li>
             
-            
-              <li>Mostly push code around 10:00</li>
-            
-            
-              <li>Mostly active on friday</li>
             
           </ul>
         
